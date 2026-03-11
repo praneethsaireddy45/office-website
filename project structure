@@ -1,6 +1,0 @@
-employee_website
-│
-├── app.py
-├── employees.db
-└── templates
-      └── index.html
